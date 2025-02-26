@@ -1,0 +1,14 @@
+[
+{
+  "directory": "D:/Proj_C++/module9/Vector3D_V2/build",
+  "command": "C:\\msys64\\ucrt64\\bin\\g++.exe   -g -std=gnu++17 -o CMakeFiles\\Vector3DProject.dir\\src\\Vector3D.cpp.obj -c D:\\Proj_C++\\module9\\Vector3D_V2\\src\\Vector3D.cpp",
+  "file": "D:/Proj_C++/module9/Vector3D_V2/src/Vector3D.cpp",
+  "output": "CMakeFiles/Vector3DProject.dir/src/Vector3D.cpp.obj"
+},
+{
+  "directory": "D:/Proj_C++/module9/Vector3D_V2/build",
+  "command": "C:\\msys64\\ucrt64\\bin\\g++.exe   -g -std=gnu++17 -o CMakeFiles\\Vector3DProject.dir\\src\\main.cpp.obj -c D:\\Proj_C++\\module9\\Vector3D_V2\\src\\main.cpp",
+  "file": "D:/Proj_C++/module9/Vector3D_V2/src/main.cpp",
+  "output": "CMakeFiles/Vector3DProject.dir/src/main.cpp.obj"
+}
+]
